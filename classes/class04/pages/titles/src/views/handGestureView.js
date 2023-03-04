@@ -9,9 +9,7 @@ export default class HandGestureView {
     this.#fingerLookupIndexes = fingerLookupIndexes
     this.#styler = styler
     //  Carrega os estlos assicronicamente (evitar travar a tela enquanto carregada)
-    setTimeout(() => {
-      styler.loadDocumentStyles()
-    }, 200)
+    setTimeout(() => styler.loadDocumentStyles(), 200)
   }
 
   clearCanvas() {
