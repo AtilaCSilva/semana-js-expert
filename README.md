@@ -41,6 +41,8 @@ Desafio plus: implementar testes unitários e alcançar 100% de coverage (avanç
 
 ### Links mostrados nos aulas:
 - Reuni todos os links em [referências](./referencias.md)
+## Live Demo
+-Para testar o projeto final [clique aqui](https://atilacsilva.github.io/semana-js-expert/classes/class04/)
 ### Considerações
 - Tire suas dúvidas sobre os desafios em nossa comunidade, o objetivo é você aprender de forma divertida. Surgiu dúvidas? Pergunte por lá!
 
